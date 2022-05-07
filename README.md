@@ -10,3 +10,4 @@ i3 catppuccin rice
   <li>GTK theme: Catppuccin</li>
   <li>Launcher: rofi</li>
   <li>Bar: polybar</li>
+  <li>Fonts: nerd fonts complete, soo a lot</li>
