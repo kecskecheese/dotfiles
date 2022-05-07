@@ -3,7 +3,6 @@ i3 catppuccin rice
 
 ![2022-05-07_09-35](https://user-images.githubusercontent.com/96261163/167244146-53603f74-c7da-4816-bed1-24b20bfe8af4.png)
 
-  
 # info
   <li>OS: Arch</li>
   <li>Terminal: Alacritty</li>
@@ -14,3 +13,6 @@ i3 catppuccin rice
   <li>Launcher: rofi</li>
   <li>Bar: polybar</li>
   <li>Fonts: nerd fonts complete, soo a lot</li>
+<br>
+<p>Thanks to [CT-66](https://github.com/CT-66) for the polybar config, I just recolored and added a few things.<br>
+Also a lot of my configs (like rofi) are coming from the [catppuccin theme](https://github.com/catppuccin/catppuccin) github, thanks for that.</p>
