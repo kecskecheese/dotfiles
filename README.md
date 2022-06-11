@@ -16,7 +16,7 @@ i3 catppuccin rice
   <li>Launcher: rofi</li>
   <li>Bar: polybar</li>
   <li>Fonts: nerd fonts complete, soo a lot</li>
-  <li>Wallaper: <a href="https://github.com/catppuccin/wallpapers/blob/main/os/arch-black-4k.png">catppuccin arch wallpaper</a>
+  <li>Wallaper: <a href="https://github.com/catppuccin/wallpapers/blob/main/minimalistic/buttons.png">catppuccin buttons wallpaper</a>
 <br>
 <p>Thanks to <a href="https://github.com/CT-66">CT-66</a> for the polybar config, I just recolored and added a few things.<br>
 Also a lot of my configs (like rofi) are coming from the <a href="https://github.com/catppuccin/catppuccin">catppuccin</a> github, thanks for that.</p>
